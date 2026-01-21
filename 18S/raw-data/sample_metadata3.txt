@@ -1,0 +1,45 @@
+sample-ID	Construction	reseau	plomberie	filtres	pommeau	quality	chauffe-eau	Temp	assezchaud	Utilisation	fluctuation	Inclus	A garder
+AU-1-16S	2000	oui	oui	oui	1fois	non	gaz	56C	oui	oui	non	non	non
+AU-1-18S	2000	oui	oui	oui	1fois	non	gaz	56C	oui	oui	non	non	non
+AU1-16S-18S	2000	oui	oui	oui	1fois	non	gaz	56C	oui	oui	non	oui	non
+AU2-16S-18S	2000	oui	oui	oui	1fois	non	gaz	56C	oui	oui	non	oui	non
+CA-1-16S	1955	oui		non	4fois	non	elec		non	oui	non	non	non
+CA-1-18S	1955	oui		non	4fois	non	elec		non	oui	non	non	non
+CA1-16S-18S	1955	oui		non	4fois	non	elec		non	oui	non	oui	non
+CE-1-16S	1955	oui	non	non	1fois	non	elec		oui	oui	non	non	non
+CE-1-18S	1955	oui	non	non	1fois	non	elec		oui	oui	non	non	non
+CE1-16S-18S	1955	oui	non	non	1fois	non	elec		oui	oui	non	oui	non
+CH-16S	1956-2000	non	non	non	4fois	non	gaz	55C	oui	oui	non	non	non
+CH-16S-bis	1956-2000	non	non	non	4fois	non	gaz	55C	oui	oui	non	non	non
+CH-18S	1956-2000	non	non	non	4fois	non	gaz	55C	oui	oui	non	non	non
+CH-18S-bis	1956-2000	non	non	non	4fois	non	gaz	55C	oui	oui	non	non	non
+CH1-16S-18S	1956-2000	non	non	non	4fois	non	gaz	55C	oui	oui	non	oui	non
+EM2-16S-18S	2000	oui	non	non	1fois	non	elec		oui	oui	oui	oui	non
+HA2-16S-18S	1955	oui	non	non	2fois	non	gaz		oui	oui	non	oui	non
+IS2-16S-18S	1956-2000	non	non	non	2fois	non	gaz	60C	oui	oui	oui	oui	non
+JO2-16S-18S	1956-2000	non		non	0fois	non			oui	oui	non	oui	non
+M1-16S												oui	non
+M1-18S												oui	non
+NTC-PCR-16S												non	non
+NTC-PCR-18S												non	non
+PA-16S	1956-2000	oui	non	non	0fois	non	gaz		oui	oui	non	non	non
+PA-18S	1956-2000	oui	non	non	0fois	non	gaz		oui	oui	non	non	non
+PA1-16S-18S	1956-2000	oui	non	non	0fois	non	gaz		oui	oui	non	oui	non
+Text-16S												non	non
+Text-16S-18S												non	non
+Text-18S												non	non
+Text2-16S-18S												non	non
+Tneg-16S-18S												non	non
+Tneg2-16S-18S												non	non
+Tpos-16S-18S												oui	non
+Tpos2-16S-18S												oui	non
+AUqPCER11618S													oui
+EMqPCR1618S													oui
+CHqPCR1618S													oui
+ISqPCR211618S													oui
+CAqPCR1618S													oui
+CEqPCR1618S													oui
+CposqPCR1618S													oui
+CnegqPCR1618S													oui
+JO16SqPCR													oui
+PA18SqPCR													oui
